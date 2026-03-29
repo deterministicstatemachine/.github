@@ -1,8 +1,8 @@
-# Deterministic State Machine
+> # Deterministic State Machine
 
 DSM is a deterministic, post-quantum state machine architecture for peer-to-peer systems without validators, consensus, sequencers, or a public global ledger.
 
-## What it is
+> ## What it is
 
 DSM replaces global consensus with relationship-local state progression, forward-only hash adjacency, and proof-carrying verification.
 
@@ -15,7 +15,7 @@ Core properties:
 - Post-quantum cryptographic foundations
 - Deterministic verification instead of third-party trust
 
-## Current focus
+> ## Current focus
 
 This organization is building the DSM protocol, wallet, storage-node infrastructure, and dBTC-related components.
 
@@ -28,23 +28,23 @@ Areas of active work include:
 - dBTC bridge architecture
 - Deterministic liquidity and vault systems
 
-## Repositories
+> ## Repositories
 
 Main project repositories and supporting components are published here in this organization.
 
-## Documentation
+> ## Documentation
 
 Project papers, specifications, and technical writing are available through the project site and repository materials as they are published.
 
-## Status
+> ## Status
 
 DSM is in active development.
 
-## Contribution
+> ## Contribution
 
 External review, issue reports, and technical discussion are welcome as the project opens further.
 
-## Philosophy
+> ## Philosophy
 
 The goal is simple:
 
